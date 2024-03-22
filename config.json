@@ -1,0 +1,11 @@
+{
+    "database": {
+        "host": "localhost",
+        "port": "4000",
+        "user": "root",
+        "password": "",
+        "database": "node-mysql-crud-api"
+    }
+
+}
+
